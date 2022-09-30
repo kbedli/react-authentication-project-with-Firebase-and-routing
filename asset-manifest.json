@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-authentication-project-with-firebase-and-routing/static/css/main.9bd7a35e.css",
+    "main.js": "/react-authentication-project-with-firebase-and-routing/static/js/main.58f65333.js",
+    "index.html": "/react-authentication-project-with-firebase-and-routing/index.html",
+    "main.9bd7a35e.css.map": "/react-authentication-project-with-firebase-and-routing/static/css/main.9bd7a35e.css.map",
+    "main.58f65333.js.map": "/react-authentication-project-with-firebase-and-routing/static/js/main.58f65333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.58f65333.js"
+  ]
+}
